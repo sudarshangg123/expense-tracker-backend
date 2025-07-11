@@ -115,16 +115,6 @@ python manage.py runserver
 
 ---
 
-## 📸 Screenshots
-
-Place your Postman screenshots inside the `screenshots/` folder:
-
-- `1_login_token.png`
-- `2_create_expense.png`
-- `3_list_expenses.png`
-- `4_analytics_output.png`
-
----
 
 ## 🙋 About the Developer
 
